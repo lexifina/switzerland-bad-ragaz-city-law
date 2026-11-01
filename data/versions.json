@@ -1,0 +1,985 @@
+{
+ "country": "CH-SG-BAD-RAGAZ",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2020-05-01",
+     "units": 53,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "844cb060dee417d8bec9203874e4ffcf768d9e5847e3cf7ef307a5860e8e27c7"
+    }
+   ]
+  },
+  {
+   "slug": "1-1-2",
+   "short": "SRS 1.1-2",
+   "title": "Region Sarganserland-Werdenberg, Statuten",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.1-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 29,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.1-2",
+     "sha256": "a7ef0be23478b46a62235bcf27236b8a8d48bdfbf16b60c929375d3911b3064e"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-1",
+   "short": "SRS 1.3-1",
+   "title": "Gebührentarif Einbürgerungsverfahren",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.3-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 6,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.3-1",
+     "sha256": "fcef244d94ce0d8a66eed1e53516d140f848337a717b80a271eea4c17ebe6412"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Geschäftsreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 11,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "4e5a740dfdea6c6d4a88d0431320b1c8a5ef392a864acc44d8488ec4946b1f1f"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2",
+   "short": "SRS 1.6-2",
+   "title": "Zusatz-Spesenreglement für den Gemeindepräsidenten oder Gemeindepräsidentin (hätte auch Gültigkeit für vollamtliche Gemeinderäte)",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 5,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "45fddadbd9dfb429674aeaaa5d6bcab7baf88398e5480a1e91fec6d6f965bc64"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3",
+   "short": "SRS 1.6-3",
+   "title": "Vereinbarung über die Führung der idsl",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 17,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "1d594ce3623b2dc30444b31e381402e71d81f2f6e73adbbe883c7e8a46168471"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 76,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "3f575c5b4630e0a628a87e8c2155f3416e35368879e30bb02e67a992e1ca6e65"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Ausführungsbestimmungen zum Personalreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 82,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "0f5b9918c8ba3832fc5730524a680e07581fb2ff808a036d0ccaf152e9a68483"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2",
+   "short": "SRS 1.7-1.2",
+   "title": "Spesenreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.7-1.2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 8,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.7-1.2",
+     "sha256": "7a7668a22bc256ee538435ed6c56c1b9244ef28557d8fa3462ebb42575467408"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-3",
+   "short": "SRS 1.7-1.3",
+   "title": "Weiterbildung, Regelung Kostenübernahme",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/1.7-1.3",
+   "versions": [
+    {
+     "from": "2002-05-07",
+     "units": 9,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/1.7-1.3",
+     "sha256": "d9783334148a50166a8a2f58c22812b5e4be8bd5c44ff49daf987c8f5a6f9d13"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Reglement über die Delegation von Zuständigkeiten im Bereich des Zivilrechts",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 4,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "a61a3c177fa3b068e57c4ca9e840725c06a7211fc7c6e354da074638d2a5e23c"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-2",
+   "short": "SRS 2.1-2",
+   "title": "Reglement über die Kosten der Nachführung der amtlichen Vermessung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/2.1-2",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 3,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/2.1-2",
+     "sha256": "e5c1c4ff1a2541a53185dc42d115d7125e900ebec0447dd4c08e4ec203880947"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-3",
+   "short": "SRS 2.1-3",
+   "title": "Vereinbarung über die gemeinsame Führung des Grundbuchamtes",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/2.1-3",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 14,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/2.1-3",
+     "sha256": "d405e7bfae6e712bca2884de07a48fe9d87fcec0eead17fa8f0e7debfd10478f"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-4",
+   "short": "SRS 2.1-4",
+   "title": "Vereinbarung über die Führung des Regionalen Zivilstandsamtes Sarganserland",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/2.1-4",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 12,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/2.1-4",
+     "sha256": "cf9f5c59576bd5bad07957f6715584f78c396f924f15fa30184ea1782dd5f175"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Schulordnung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 50,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "ed8912b77581130f8114109643295f682915989f1797831402ef50a6b01700df"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement für die Schulleitung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 9,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "201cf5a0443c53d0940183b5da62098c49b911e181759d452e45fd0c44f6e121"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Reglement über den Robert-Hohl-Bildungsfonds",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2024-12-01",
+     "units": 11,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "4e778c6107b6d02167455877b1be614d255ca6b2679d2ab4275a2c49e2172173"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Vereinbarung Bevölkerungsschutz-Region Sarganserland",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 32,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "24c7ad34c569c742c9bf4ecee7fc7d5a36b504a3c40b7b8b24447686eef2bd05"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerschutzreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "1c20eb355b19958f80bc883088ddb1c8a9a8212ffb9a3fdb7c0a0060917202bd"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-2-rrwf",
+   "short": "RRWF",
+   "title": "Reglement über die Reserve Werterhalt Finanzvermögen",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/6.1-2",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/6.1-2",
+     "sha256": "fefebfa7cf3bfd0314cdc3a01a560e28d9de8bca526672ba22b812fc2e7b63ed"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Benützungsvorschriften Mehrzweckgebäude Bad Ragaz",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 13,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "f9628a2405bb20441de13a6c0453d850afca4563c9f8484ee31e91b80e616e2a"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Benützungsreglement für Schulanlagen",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 28,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "efb22033ee453ba4246dcbf5751bf3306fc55a763f26c735331a45b8ef5bd8db"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Benützungsordnung der Sportanlagen Ri-Au und Giessenpark",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "b0c662662d75e9cbc8754dcec9f1bb1b7c0e728d5ae9d9247b12a2ff0e099f5b"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3-1",
+   "short": "SRS 6.6-3.1",
+   "title": "Betriebsreglement Sportplatz Ri-Au",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/6.6-3.1",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 8,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/6.6-3.1",
+     "sha256": "61d521edaf835ae86a508467063646d18339c574497063c423fc6d0d5721af20"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Baureglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 60,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "b6c9147a01e28391b2910fc4a60c70a6577e6a2fcb223beea66d99e89d638002"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2-svo",
+   "short": "SVO",
+   "title": "Schutzverordnung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2009-05-08",
+     "units": 32,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "0360fac6db7039cc7896b5bfe10abdb651253f8e1085f768ac9392eb626363c1"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Kernzonenreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "1990-05-03",
+     "units": 44,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "4c454b9ac0721a5d7cf813f98544c55e124f5adadc1bb7420fd888ee529f595f"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4",
+   "short": "SRS 7.1-4",
+   "title": "Parkplatzreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "1983-10-26",
+     "units": 19,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "e4d45fc1a8368a1e842803397978e54be0918617dd7422acca9dcfd0310ad213"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Pilzschutzverordnung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 11,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "320a719474e0eb3d64092d308b02917d0306c789e29e5c4c99c196683cff553f"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Vereinbarung über die Pilzkontrolle Sarganserland",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 15,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "e9b9eadb959ade1ac1ec87739caa354e323308ac988df9b9d0fbf25b83b72df3"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-3",
+   "short": "SRS 7.3-3",
+   "title": "Schutzzonenreglement Föhrenwald",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-3",
+   "versions": [
+    {
+     "from": "1979-05-14",
+     "units": 14,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-3",
+     "sha256": "ec0d90cbccad1d7f6b29667304bed33634fdcdde1541119ea121ba16cf57b107"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-4",
+   "short": "SRS 7.3-4",
+   "title": "Schutzzonenreglement Grundwasserschutzzone für die Quelle Gisibel",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-4",
+   "versions": [
+    {
+     "from": "1993-06-08",
+     "units": 13,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-4",
+     "sha256": "7e48634eca68b4691447e102f0f3d93c32fc900ac6a79b4f6f0116778a212f1e"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-5",
+   "short": "SRS 7.3-5",
+   "title": "Grundwasserschutzzone für die Quelle «Pardatsch», Schutzzonenreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-5",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 32,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-5",
+     "sha256": "d21f154af8e2898316bfdab483d4dd639593fa0b3e6cdb15e7dfe521fe5a66da"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-6",
+   "short": "SRS 7.3-6",
+   "title": "Grundwasserschutzzone für das Grundwasser-Pumpwerk «Sarelli», Schutzzonenreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-6",
+   "versions": [
+    {
+     "from": "1999-02-05",
+     "units": 32,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-6",
+     "sha256": "3bfd8e4fd8521e0456aa826387da4d170ddb98b7b4d9e85e1f93296786b43d0d"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-7",
+   "short": "SRS 7.3-7",
+   "title": "Grundwasserschutzzone für die Quellen Rüti, Sergeuris: Schutzzonenreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-7",
+   "versions": [
+    {
+     "from": "1999-02-16",
+     "units": 28,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-7",
+     "sha256": "ba96539625bc6db47fcdf67c1ea0085173d87a971392946e03c3e75fa87a0b6d"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-8",
+   "short": "SRS 7.3-8",
+   "title": "Grundwasserschutzareal «Uf der Insel», Bad Ragaz, Schutzarealreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-8",
+   "versions": [
+    {
+     "from": "2000-11-02",
+     "units": 31,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-8",
+     "sha256": "6cbf2b94fbece876953c7e4118f54ecbb0209ee583d1d4e222466c8a742da382"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-9",
+   "short": "SRS 7.3-9",
+   "title": "Grundwasserschutzzonen für die Bölliquellen",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-9",
+   "versions": [
+    {
+     "from": "2011-05-02",
+     "units": 28,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-9",
+     "sha256": "f1816d1e3f3a1f5a4a53bbbe0ec165b80b76730f4e60a2c9f01c2a9c434b2edf"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-10",
+   "short": "SRS 7.3-10",
+   "title": "Grundwasserschutzzonen für die Quellen Talbühel, Schutzzonenreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-10",
+   "versions": [
+    {
+     "from": "2016-04-12",
+     "units": 29,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-10",
+     "sha256": "b7f13a527a889027f465764c6fb48aee1d50c87a092760acdd8f399aa38e702e"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-11",
+   "short": "SRS 7.3-11",
+   "title": "Schutzzonenreglement für die geplante Grundwasserfassung Neugüeter",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-11",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 35,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-11",
+     "sha256": "416da4571daf6a3b4d4a9e15f8b2479a9e4133322aeacc07327767b66abdeabd"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-12",
+   "short": "SRS 7.3-12",
+   "title": "Schutzarealreglement für das Grundwasserschutzareal Heulöser",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.3-12",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 29,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.3-12",
+     "sha256": "713cff7b7c790908c5f577de179f46287ba4c6ecb25898404710244f2cedc8d7"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-2-1-warmeverbundreglement",
+   "short": "Wärmeverbundreglement",
+   "title": "Reglement für Anschlüsse an das Wärmeverteilnetz und Lieferung von Wärme-Energie",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.2-1",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 51,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.2-1",
+     "sha256": "3177ecaf352c67a1043341e0419f367d40ab181b823c839e003840991cd2ac1c"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Wasserreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 68,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "576ebc5d671570a0d9c21917b0403c32d36aafd4b4fe1fc2044f48555232bebd"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasserreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 50,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "e762a17b1645f18d240a8495a8c9fa0db9e86d2602222e348887d0b8fbe98775"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-1",
+   "short": "SRS 7.4.3-2.1",
+   "title": "Gebührentarif für die Abwasserbeseitigung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.3-2.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 2,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.3-2.1",
+     "sha256": "de86679f87c842fa2d5a059baba00fee173c0567d41d564a36a7d3d1d9179756"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-3",
+   "short": "SRS 7.4.3-3",
+   "title": "Vereinbarung betreffend Anschluss der Abwässer aus dem Gebiet Valens an die Kanalisation und die Abwasserreinigungsanlage von Bad Ragaz (Ergänzung zum Vertrag betreffend die Ableitung der Schmutzwasser aus dem Einzugsgebiet des Dorfes Pfäfers in die Abwasserreinigungsanlage Bad Ragaz vom 26. August 1974)",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.3-3",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 21,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.3-3",
+     "sha256": "121475b038866b501062b2445364837ea705d63daf13ca1ea7aa6956e887c42c"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-abfallreglement",
+   "short": "Abfallreglement",
+   "title": "Reglement über die Abfallbewirtschaftung und Abfallentsorgung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 26,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "525f81abb73eb7d1f9437299e850a203317d14b2c73d15bd64c1bf0defea1289"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-1",
+   "short": "SRS 7.4.4-1.1",
+   "title": "Vollzugsvorschriften zum Reglement über die Abfallbewirtschaftung und Abfallentsorgung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.4-1.1",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 11,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.4-1.1",
+     "sha256": "5b73855b5c630f4f4678314496a1a61597520d31045976114f9f260bf9cf31c7"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1-2",
+   "short": "SRS 7.4.4-1.2",
+   "title": "Gebührentarif zum Reglement über die Abfallbewirtschaftung und Abfallentsorgung (Abfallreglement)",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.4-1.2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.4-1.2",
+     "sha256": "68c04815d44e929e647a4306e16b8fc553f26bb8529109796b184b382d0a899b"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-2",
+   "short": "SRS 7.4.4-2",
+   "title": "Statuten des Vereins für Abfallentsorgung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.4.4-2",
+   "versions": [
+    {
+     "from": "2012-12-31",
+     "units": 24,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.4.4-2",
+     "sha256": "0809a968d44e2219afb270edc39f4e3d6174e1f8792056c96b43fe528b244d7a"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Nutzungsabgabe für die Benützung von öffentlichem Grund (gesteigerter Gemeingebrauch)",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2013-02-19",
+     "units": 9,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "f2c5286bc3efe424fc312ecdc8b986c7813d3da24e07b9d02c364ee1ea5cc7f2"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2-parkierungsreglement",
+   "short": "Parkierungsreglement",
+   "title": "Reglement über das Parkieren auf öffentlichem Grund",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 17,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "8cf5f7a19c02a9114c97a4fb890142e29700fe3ba1741ac6f3b8b4d87d8bbfc4"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2-1",
+   "short": "SRS 7.7-2.1",
+   "title": "Gebührentarif für die Parkplätze auf öffentlichem Grund",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/7.7-2.1",
+   "versions": [
+    {
+     "from": "2019-09-01",
+     "units": 6,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/7.7-2.1",
+     "sha256": "bebc81a32246d33ab4774958dc8439daf140e2b15a2eacb92d7982608bc29363"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1",
+   "short": "SRS 8.1-1",
+   "title": "Vereinbarung über den Zweckverband Pflegezentrum Sarganserland",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.1-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 42,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.1-1",
+     "sha256": "6793cb3a5ec1724a1cf6689e3abce7196957bc252b31fe4d15d3b1ccf7ae6230"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-2",
+   "short": "SRS 8.1-2",
+   "title": "Vereinbarung der Zweckverbandsgemeinden PZSL über den Ausbildungsverbund Sarganserland",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.1-2",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 10,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.1-2",
+     "sha256": "19f53e5bf3722b1e4c83d5040131173e21c856f9967016d1b0b99333eb031036"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Friedhofreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2009-08-11",
+     "units": 46,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "daca168b6cc2409c2793e45725d15d2a615f1bccb6e504b1ad12b3f1bd045fae"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Gebührentarif Friedhofreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2009-06-09",
+     "units": 4,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "bd5c48ebfe5a2095e9949255611af5dec63239e0a3dc4bc0cc1dfe7783e95302"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Vereinbarung über den Betrieb der regionalen Tierkörpersammelstelle in Bad Ragaz",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "8949a479372a7ef669efee998323970a198c5a317351399e8542332117ef29df"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1-1",
+   "short": "SRS 8.3-1.1",
+   "title": "Reglement über die Beseitigung von Tierkörpern und Tierkörperteilen sowie den Betrieb der regionalen Tierkörpersammelstelle in Bad Ragaz",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.3-1.1",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 12,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.3-1.1",
+     "sha256": "778e168caa5f6759532eba42fb53aae71ecf1487b5e703048f8a6a560e5a422a"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1-altersheimreglement",
+   "short": "Altersheimreglement",
+   "title": "Reglement für das Altersheim Allmend",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 35,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "b1ae99e63e18d3025cca7b3cf7603ad21fda76a04d09b2f62f84033d332a7b82"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1-1",
+   "short": "SRS 8.7-1.1",
+   "title": "Hausordnung Altersheim Allmend",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-1.1",
+   "versions": [
+    {
+     "from": "2007-05-01",
+     "units": 27,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-1.1",
+     "sha256": "37fc667f208aadd85e2b0f20fe66fc62d5d61a0712c166e934cd5b29fe0b3224"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1-2",
+   "short": "SRS 8.7-1.2",
+   "title": "Taxordnung Altersheim Allmend",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-1.2",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-1.2",
+     "sha256": "601c87a9cfda6edba7a72987453d543f58afd4aad5e998b2baf48da9abf90735"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-2",
+   "short": "SRS 8.7-2",
+   "title": "Kompetenzordnung für das Sozialamt",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-2",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 9,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-2",
+     "sha256": "b82bd20440c82663143254f356aaa6cdb064e5814d932f5133fcd755b5a91363"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-3",
+   "short": "SRS 8.7-3",
+   "title": "Sozialhilfe-Unterstützungsrichtlinien",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-3",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 27,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-3",
+     "sha256": "8c0d65cce2f43fb076144a2a7d891b3385677484e8a73bf9d8288887f2608c4b"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-4",
+   "short": "SRS 8.7-4",
+   "title": "Vereinbarung über die Führung der Mütter- und Väterberatung Sarganserland (MVBS)",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-4",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-4",
+     "sha256": "f7338d0c8ba331156e6052955a010f2f97982a47e06d52d9229838e21dec9f50"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-5",
+   "short": "SRS 8.7-5",
+   "title": "Vereinbarung «Zweckverband Soziale Dienste Sarganserland»",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/8.7-5",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 25,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/8.7-5",
+     "sha256": "cb59f903681066cb4e7baf20981850ef541a7c60f2730a713b3ccc996bb9ebbf"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1-campingreglement",
+   "short": "Campingreglement",
+   "title": "Verordnung über die Errichtung und den Betrieb von Camping- und Zeltplätzen in der politischen Gemeinde Bad Ragaz",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "1979-07-30",
+     "units": 21,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "1fd980f2517f5de2ec91b26932d546ce10d9b744a05a294efda2b629b92ed791"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-2",
+   "short": "SRS 9.4-2",
+   "title": "Reglement über die Kurtaxen",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/9.4-2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 24,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/9.4-2",
+     "sha256": "52fa8d794adcda98b105f2d6112c002114c688b2f4290fadcbb531f414560008"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-2-1",
+   "short": "SRS 9.4-2.1",
+   "title": "Ausführungsbestimmungen zum Reglement über die Kurtaxen",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/9.4-2.1",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 14,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/9.4-2.1",
+     "sha256": "e99a89819cb1401ef33bab21eccb087446a43ddb6f2f7ca1c089807534bd772c"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Gastwirtschaftsreglement",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "1986-01-10",
+     "units": 21,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "1f0689228ce61febbec30d73c548891d2caaad27c044c46822e62588c61e4cce"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-2-ladenoffnungsreglement",
+   "short": "Ladenöffnungsreglement",
+   "title": "Reglement über die Ladenöffnung",
+   "url": "https://badragaz.tlex.ch/app/de/texts_of_law/9.5-2",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 6,
+     "source_url": "https://badragaz.tlex.ch/api/de/texts_of_law/9.5-2",
+     "sha256": "18cd86eea5e4d372d631381cf936b79ff2c1884cb0dade223104b118b9e3270d"
+    }
+   ]
+  }
+ ]
+}

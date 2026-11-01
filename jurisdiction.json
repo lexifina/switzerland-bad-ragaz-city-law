@@ -1,0 +1,11 @@
+{
+  "path": "ch-sg-bad-ragaz",
+  "code": "CH-SG-BAD-RAGAZ",
+  "name": "Bad Ragaz (city)",
+  "level": "municipality",
+  "parent": "ch-sg",
+  "repo": "https://github.com/lexifina/switzerland-bad-ragaz-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (70 acts, 70 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
