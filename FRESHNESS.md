@@ -8,7 +8,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Bad Ragaz: Systematische Sammlung (badragaz.tlex.ch) · `switzerland/st-gallen/bad-ragaz/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-24 11:54 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 07:57 UTC**.
 - Vorschriften hier: 70; aktuell gegenüber der Quelle: 70; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 10 der 70 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 0 (—); ohne Grund: 0.

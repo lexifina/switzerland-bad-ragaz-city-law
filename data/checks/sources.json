@@ -21,6 +21,7 @@
     "switzerland/st-gallen/bad-ragaz/acts"
    ],
    "interval": 1.0,
+   "group": "lexwork",
    "repo": "switzerland-bad-ragaz-city-law"
   }
  ]
