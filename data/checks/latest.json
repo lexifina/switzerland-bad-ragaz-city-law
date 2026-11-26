@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:26:02Z",
+ "generated": "2026-11-26T07:17:20Z",
  "latest": {
   "lexwork-bad-ragaz-city|switzerland/st-gallen/bad-ragaz/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 70,
     "source_in_scope": 70
    },
-   "check_id": "ch-lexwork-bad-ragaz-city-20261125T075646Z",
+   "check_id": "ch-lexwork-bad-ragaz-city-20261126T065101Z",
    "commits": null,
    "corpus": "switzerland/st-gallen/bad-ragaz/acts",
    "error": null,
-   "finished": "2026-11-25T07:57:09Z",
+   "finished": "2026-11-26T06:51:24Z",
    "flags": [],
    "gap": 0,
    "note": "badragaz.tlex.ch: index of 70 acts (70 in force); held 70; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 10 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -47,7 +47,7 @@
    },
    "snapshot": "70 entries, 70 in force (badragaz.tlex.ch)",
    "source": "lexwork-bad-ragaz-city",
-   "started": "2026-11-25T07:56:46Z",
+   "started": "2026-11-26T06:51:01Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
